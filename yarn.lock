@@ -2265,6 +2265,14 @@ quick-lru@^4.0.1:
   resolved "https://registry.npmjs.org/quick-lru/-/quick-lru-4.0.1.tgz"
   integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
 
+react-autosave@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/react-autosave/-/react-autosave-0.4.2.tgz#acf4b6db529d11a3995d873eb1902075f3b3a112"
+  integrity sha512-CcBv1iLGnuiRkSJRenPd4Ep0BcVTMcIE5OSnCerEV7MLVTEoNXWn4bsjvERFL5y95ji/Z9fndZKgyhZPohKZaw==
+  dependencies:
+    react "18.2.0"
+    react-dom "18.2.0"
+
 react-dom@18.2.0:
   version "18.2.0"
   resolved "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"

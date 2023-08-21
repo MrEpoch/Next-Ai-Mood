@@ -35,7 +35,7 @@ model JournalEntry {
     deletedAt DateTime?
 
     Analysis Analysis?
-    @@index([userId], name: "userId")
+    @@unique([userId, id])
 }
 
 model Analysis {
